@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 🧩 Algorithms & DSA. 
+- 🌱 I’m currently learning Python🐍 and WebDevelopment💻🛠️.
+- 👯 I’m looking to collaborate on creative tech projects, startup ideas, or anything that helps people and adds value!📘💡
 <!--
 **1sarthak9/1sarthak9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
